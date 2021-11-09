@@ -1,6 +1,6 @@
 import React, { Component} from 'react'
 import '../static/stylesheets/ProfileHeader.css'
-import wall from '../static/images/katie-background.JPG'
+import wall from '../static/images/katie-background.png'
 class ProfileHeader extends Component {
 
     render() {
