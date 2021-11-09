@@ -11,24 +11,18 @@ class Footer extends Component {
         return(
             <footer class="page-footer foot pt-4">
                 <div class='container-fluid text-center'>
-                    <a href='https://www.instagram.com/jackgoettle' target="_blank" rel="noopener noreferrer">
-                        <img src={insta} className='logo' alt=''/>
-                    </a>
-                    <a href='https://www.facebook.com/profile.php?id=100009383992707' target="_blank" rel="noopener noreferrer">
+                    <a href='https://www.facebook.com/kathryn.goettle7' target="_blank" rel="noopener noreferrer">
                         <img src={fb} className='logo' alt=''/>
                     </a>
-                    <a href='https://www.linkedin.com/in/jack-goettle/' target="_blank" rel="noopener noreferrer">
+                    <a href='https://www.linkedin.com/in/katie-goettle-61a966190/' target="_blank" rel="noopener noreferrer">
                         <img src={linkedin} className='logo' alt=''/>
                     </a>
-                    <a href='https://twitter.com/jackgoettle' target="_blank" rel="noopener noreferrer">
+                    <a href='https://twitter.com/katiegoettle?lang=en' target="_blank" rel="noopener noreferrer">
                         <img src={twitter} className='logo' alt=''/>
-                    </a>
-                    <a href='https://github.com/jackg235' target="_blank" rel="noopener noreferrer">
-                        <img src={github} className='logo' alt=''/>
                     </a>
                 </div>
                 <div class="footer-copyright text-center py-3">
-                    Jack Goettle © 2020
+                    Katie Goettle © 2021
                 </div>
             </footer>
         )
